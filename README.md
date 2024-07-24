@@ -1,4 +1,4 @@
-# Fleet Examples
+## Fleet Examples
 
 This repository contains examples of how to use Fleet using different approaches.
 The repo is broken up into two different sections: Single cluster and Multi Cluster.
